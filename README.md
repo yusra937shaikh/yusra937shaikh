@@ -90,12 +90,12 @@
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=yusra937shaikh\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
 ## 🐍 My GitHub Contributions
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yusra937shaikh/yusra937shaikh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/yusra937shaikh/yusra937shaikh/output/github-contribution-grid-snake.svg)
+---
 
-</div>
+[![](https://komarev.com/ghpvc/?username=yusra937shaikh\&icon=0\&color=0)](https://visitcount.itsvg.in)
